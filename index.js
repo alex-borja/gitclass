@@ -1,1 +1,1 @@
-console.log("hello world from dev")
+console.log("hello world from dev ssh")
